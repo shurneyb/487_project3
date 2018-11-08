@@ -69,99 +69,6 @@ $(function(){
 
 // Measles Immunization Chart
 $(function(){
-  /*
-  //table two variables
-  var url = 'data/measles-immunization.json'; 
-  var data = [];
-  var xCat = [];
-  var percImmuneBRA = [];
-  var percImmuneCAN = [];
-  var percImmuneCHN = [];
-  var percImmuneDEU = [];
-  var percImmuneFRA = [];
-  var percImmuneMEX = [];
-  var percImmuneUSA = [];
-  var percImmuneGBR = [];
-  
-  $.ajax({
-    type: 'GET',
-    dataType: 'json',
-    data: data,
-    url: url,
-    async: true,
-    success:function(data){
-      console.log(data);
-      for(i=0; i < data.length; i++){
-        xCat.push(data[i].Year);
-        if (data[i].Code == "BRA"){
-          percImmuneBRA.push(data[i].measlesImmunization);
-        } else if (data[i].Code == "CAN"){
-          percImmuneCAN.push(data[i].measlesImmunization);
-        } else if (data[i].Code == "CHN"){
-          percImmuneCHN.push(data[i].measlesImmunization);
-        } else if (data[i].Code == "DEU"){
-          percImmuneDEU.push(data[i].measlesImmunization);
-        } else if (data[i].Code == "FRA"){
-          percImmuneFRA.push(data[i].measlesImmunization);
-        } else if (data[i].Code == "MEX"){
-          percImmuneMEX.push(data[i].measlesImmunization);
-        } else if (data[i].Code == "USA"){
-          percImmuneUSA.push(data[i].measlesImmunization);
-        } else if (data[i].Code == "GBR"){
-          percImmuneGBR.push(data[i].measlesImmunization);
-        }
-      }
-      
-      buildImmunizationChart();
-    }
-  });
-  
-  function buildImmunizationChart(){
-    
-    var myChart = Highcharts.chart('measles-immunization-chart', {
-      title: {
-        text: 'Measles Immunization Rates'
-      },
-      subtitle: {
-        text: 'Source: WHO and UNICEF'
-      },
-      xAxis: {
-        categories: xCat
-      },
-      yAxis: {
-        title: {
-          text: 'Percent immunized'
-        }
-      },
-      series: [{
-        name: 'Brazil',
-        data: percImmuneUSA
-      }, {
-        name: 'Canada',
-        data: percImmuneCAN
-      }, {
-        name: 'China',
-        data: percImmuneCHN
-      }, {
-        name: 'Germany',
-        data: percImmuneDEU
-      }, {
-        name: 'France',
-        data: percImmuneFRA
-      }, {
-        name: 'Mexico',
-        data: percImmuneMEX
-      }, {
-        name: 'United States',
-        data: percImmuneUSA
-      }, {
-        name: 'United Kingdom',
-        data: percImmuneGBR
-      }]
-    });
-  }
-  */
-  
   
   Highcharts.chart('measles-immunization-chart', {
     chart: {
@@ -183,7 +90,10 @@ $(function(){
         'Mexico',
         'United States',
         'United Kingdom'
-      ]
+      ],
+      title: {
+        text: 'Country'
+      }
     },
     yAxis: {
       min: -10,
@@ -241,64 +151,3 @@ $(function(){
     }]
   });
 });
-// End Measles Immunization Chart
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*Highcharts.chart('container', {
-  
-  title: {
-    text: 'Solar Employment Growth by Sector, 2010-2016'
-  },
-  
-  subtitle: {
-    text: 'Source: thesolarfoundation.com'
-  },
-  
-  yAxis: {
-    title: {
-      text: 'Number of Employees'
-    }
-  },
-  legend: {
-    layout: 'vertical',
-    align: 'right',
-    verticalAlign: 'middle'
-  },
-  
-  plotOptions: {
-    series: {
-      label: {
-        connectorAllowed: false
-      },
-      pointStart: 2010
-    }
-  },
-  
-  series: [{
-    name: 'Installation',
-    data: [43934, 52503, 57177, 69658, 97031, 119931, 137133, 154175]
-  }, {
-    name: 'Manufacturing',
-    data: [24916, 24064, 29742, 29851, 32490, 30282, 38121, 40434]
-  }, {
-    name: 'Sales & Distribution',
-    data: [11744, 17722, 16005, 19771, 20185, 24377, 32147, 39387]
-  }, {
-    name: 'Project Development',
-    data: [null, null, 7988, 12169, 15112, 22452, 34400, 34227]
-  }, {
-    name: 'Other',
-    data: [12908, 5948, 8105, 11248, 8989, 11816, 18274, 18111]
-  }],
-  */

@@ -4,7 +4,7 @@
   
   <!-- My CSS -->
   <link rel="stylesheet" href="css/style.css">
-
+  
   <!-- HighCharts CSS -->
   <script src="https://code.highcharts.com/highcharts.js"></script>
   
@@ -28,9 +28,9 @@
       <div id="menu-as" class="flex-nav">
         <a id="sections-area" class="main-nav-item">
           <img class="menu-img" src="img/hamburger-button.PNG">
-          <p>SECTIONS</p>
+          <p class="mobile-none">SECTIONS</p>
         </a>
-        <a id="search-area" class="main-nav-item">
+        <a id="search-area" class="main-nav-item mobile-none">
           <img class="menu-img" src="img/search-button.PNG">
           <p>SEARCH</p>
         </a>
@@ -39,7 +39,7 @@
         <img id="logo-img" src="img/main-logo.PNG">
       </a>
       <div id="menu-btns" class="flex-nav">
-        <a id="sale-btn" class="main-nav-item flex-btn">
+        <a id="sale-btn" class="main-nav-item flex-btn mobile-none">
           <p class="caps">SALE</p>
           <p>$1 for 3 months</p>
         </a>
@@ -49,7 +49,7 @@
       </div>
     </div>
     <div id="secondary-nav" class="flex-nav">
-      <div id="date">
+      <div id="date" class="mobile-none">
         
       </div>
       <div id="tabs" class="flex-nav pointer">
@@ -57,10 +57,10 @@
         <a class="tab-item">cars</a>
         <a class="tab-item">homes</a>
         <a class="tab-item">jobs</a>
-        <a class="tab-item">sd almanac</a>
-        <a class="tab-item">contact us</a>
-        <a class="tab-item">today's paper</a>
-        <a class="tab-item">rewards</a>
+        <a class="tab-item">almanac</a>
+        <a class="tab-item mobile-none">contact us</a>
+        <a class="tab-item mobile-none">today's paper</a>
+        <a class="tab-item mobile-none">rewards</a>
       </div>
       <div id="weather" class="pointer flex-nav">
         <img src="img/weather.PNG">
@@ -90,38 +90,86 @@
         <p id="byline">By <span id="orange-text" class="pointer">Brian Shurney • Contact Reporter</span></p>
       </div>
       <p class="gray-text bottom-space">NOVEMBER 8, 2018, 12:00 PM</p>
-
-      <div id="measles-cases-chart"></div>
-      <div id="measles-immunization-chart"></div>
-      <iframe src="https://ourworldindata.org/grapher/share-that-disagrees-that-vaccines-are-safe"></iframe>
-
-      <p id="copyright">Copyright © 2018, <span id="copyright-text" class="pointer">The San-Diego Union-Tribune</span></p>
-      <p id="related" class="bottom-space"><b>This article is related to:</b> <span class="blue-text">Flu</span>, <span class="blue-text">Whooping Cough</span></p>
-      <div id="social-media-icons" class="bottom-space">
-        <i class="fab fa-facebook-f push-right"></i>
-        <i class="fab fa-twitter push-right"></i>
+      
+      <h2> Out of the darkness </h2>
+        
+        <p class="copy"> 
+          In the early 1900s many viruses and diseases could spread through the air and kill thousands of people per year.
+        </p>
+        <p class="copy"> 
+          The death toll then was great, but with the introduction of new vaccines, people no longer had to fear for their own lives or those of their children.
+        </p>
+        
+        <p class="copy"> 
+          One of the most famous of these treatments is the MMR vaccine. MMR stands for measles, mumps, and rubella, all of which this vaccine can shield people from. With this vaccine in use, there have only been 11 deaths from measles in the U.S. since 2000, according to CDC.
+        </p>
+        
+        <p class="copy"> 
+          Unfortunately, some people's’ immune systems are too weak to handle vaccines like MMR. People may also not get vaccinated because of their religious beliefs, although vaccines are free for low-income Americans according to the U.S. government’s website. Regardless, vaccines are still effective due to “herd immunity.”
+        </p>
+        
+        <p class="copy"> 
+          Herd immunity refers to a community of people being effectively immune to airborne viruses or diseases because of a certain percentage of people who are vaccinated. Different viruses require different percentage thresholds of vaccinated people for herd immunity to take effect.
+        </p>
+        
+        <p class="copy"> 
+          The problem comes when so many people refuse to get vaccines that their community falls below the herd immunity threshold.
+        </p>
+        
+        <p class="copy"> 
+          For viruses like the flu, only about 45% of people need to be vaccinated in order for herd immunity to take effect, but some viruses, like the measles, require around 95% of people to be vaccinated in order to protect the community, according to the World Health Organization.
+        </p>
+        
+        <div id="measles-immunization-chart" class="chart chart-tall"></div>
+        
+        
+        <p class=”copy”> 
+          As the above chart shows, the U.S. as a whole did not meet the herd immunity threshold for measles in 2015, although other similarly developed countries around the world did.
+        </p>
+        
+        <p class="copy"> 
+          This lack of immunity has led to several measles outbreaks over the last 10 years that have threatened the lives of Americans who could have been safe if they had received a vaccine at any point in their life.
+        </p>
+        
+        <div id="measles-cases-chart" class="chart"></div>
+        
+        <p class="copy"> 
+          Lack of herd immunity for the measles can be attributed to a lack of trust surrounding the MMR vaccine.
+        </p>
+        
+        <p class="copy"> 
+          In 2008, the celebrity Jenny McCarthy stated on national TV that she believed that her son developed autism because of the vaccines he had received. This, combined with a falsified report by ex-physician Andrew Wakefield correlating the two, have created a culture of distrusting vaccines.
+        </p>
+        
+        <iframe class="chart" src="https://ourworldindata.org/grapher/share-that-disagrees-that-vaccines-are-safe"></iframe>
+        
+        <p class="copy"> 
+          Around the world people may distrust vaccines for different reasons, but the distrust is dangerous in countries where people may opt themselves or their children out of vaccination.
+        </p>
+        
+        <p class="copy"> 
+          When it comes to vaccines, one should always refer to reputable people and organizations to be to get factual information. A study by Azhar Hussain, Syed Ali, Madiha Ahmed and Sheharyar Hussain concludes by saying “It is of the utmost importance that all stakeholders in the medical world - physicians, researchers, educators, and governments - unite to curb the influence of the anti-vaccination movement targeting parents.”
+        </p>
+        
+        <p id="copyright">Copyright © 2018, <span id="copyright-text" class="pointer">The San-Diego Union-Tribune</span></p>
+        <p id="related" class="bottom-space"><b>This article is related to:</b> <span class="blue-text">Flu</span>, <span class="blue-text">Whooping Cough</span></p>
+        <div id="social-media-icons" class="bottom-space">
+          <i class="fab fa-facebook-f push-right"></i>
+          <i class="fab fa-twitter push-right"></i>
+        </div>
+        <div id="view-comments-btn" class="flex-center">VIEW COMMENTS</div>
       </div>
-      <div id="view-comments-btn" class="flex-center">VIEW COMMENTS</div>
     </div>
-  </div>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <!-- jQuery -->
-  <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-  <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-  
-  <!-- My JS -->
-  <script src="js/scripts.js"></script>
-
-  <!-- HighCharts JS -->
-  <script src="https://code.highcharts.com/highcharts.js"></script>
-  
-</body>
-</html>
+    
+    <!-- jQuery -->
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    
+    <!-- My JS -->
+    <script src="js/scripts.js"></script>
+    
+    <!-- HighCharts JS -->
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    
+  </body>
+  </html>

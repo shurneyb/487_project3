@@ -280,4 +280,57 @@
     width: 100%;
     border: 0;
   }
+
+  .copy{
+    font: 15px/24px Georgia,'Droid Serif',serif;
+    font-size: 18px;
+    line-height: 27px;  
+    margin-bottom: 18px;
+    color: #333;
+  }
+
+  .chart{
+    margin-bottom: 18px;
+  }
+
+  .chart-tall .highcharts-xaxis-labels text{ 
+    display: none;
+  }
+
 /* End Content */
+
+/* Mobile */
+@media only screen and (max-width: 600px) {
+
+/* Header */
+  #logo-img{
+    width: 90%;
+  }
+  .mobile-none{
+    display: none;
+  }
+  #main-nav{
+    height: 60px;
+  }
+/* End Header */
+
+  #content{
+    margin: 0 40px;
+    padding: 0;
+  }
+
+  #article-area{
+    width: 95%;
+  }
+
+  .chart{
+    width: 100%;
+  }
+
+  .chart-tall{
+     height: 500px;
+  }
+  
+}
+
+/* End Mobile */
