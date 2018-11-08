@@ -274,4 +274,10 @@
     background: #FF5443;
     color: #fff;
   }
+
+  iframe{
+    height: 500px;
+    width: 100%;
+    border: 0;
+  }
 /* End Content */

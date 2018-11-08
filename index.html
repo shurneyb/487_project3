@@ -4,6 +4,9 @@
   
   <!-- My CSS -->
   <link rel="stylesheet" href="css/style.css">
+
+  <!-- HighCharts CSS -->
+  <script src="https://code.highcharts.com/highcharts.js"></script>
   
   <meta charset="UTF-8">
   <meta name="description" content="Data visualizations regarding vaccination and measles outbreaks in the U.S.">
@@ -78,7 +81,7 @@
         <a class="pointer path-item">Their Health and Safety</a>
       </div>
     </div> <!-- End Social Media Nav -->
-    <h1>How anti-vaxxers have affected vaccination in the US</h1>
+    <h1>How trust in vaccines can help the US and the world</h1>
     <div id="article-area">
       <img id="article-img" src="http://www.trbimg.com/img-5accf02b/turbine/sd-1523380263-wiyt7whvir-snap-image/1600/1600x900">
       <p class="gray-text bottom-space">Getting vaccinated contributes to "herd immunity," which protects people who cannot get the procedure from dangerous viruses. (Getty Images)</p>
@@ -87,6 +90,11 @@
         <p id="byline">By <span id="orange-text" class="pointer">Brian Shurney • Contact Reporter</span></p>
       </div>
       <p class="gray-text bottom-space">NOVEMBER 8, 2018, 12:00 PM</p>
+
+      <div id="measles-cases-chart"></div>
+      <div id="measles-immunization-chart"></div>
+      <iframe src="https://ourworldindata.org/grapher/share-that-disagrees-that-vaccines-are-safe"></iframe>
+
       <p id="copyright">Copyright © 2018, <span id="copyright-text" class="pointer">The San-Diego Union-Tribune</span></p>
       <p id="related" class="bottom-space"><b>This article is related to:</b> <span class="blue-text">Flu</span>, <span class="blue-text">Whooping Cough</span></p>
       <div id="social-media-icons" class="bottom-space">
@@ -111,6 +119,9 @@
   
   <!-- My JS -->
   <script src="js/scripts.js"></script>
+
+  <!-- HighCharts JS -->
+  <script src="https://code.highcharts.com/highcharts.js"></script>
   
 </body>
 </html>

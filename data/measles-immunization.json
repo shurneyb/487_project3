@@ -1,0 +1,1653 @@
+[
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1980,
+    "measlesImmunization": 57
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1981,
+    "measlesImmunization": 73
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1982,
+    "measlesImmunization": 66
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1983,
+    "measlesImmunization": 68
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1984,
+    "measlesImmunization": 73
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1985,
+    "measlesImmunization": 67
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1986,
+    "measlesImmunization": 67
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1987,
+    "measlesImmunization": 64
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1988,
+    "measlesImmunization": 62
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1989,
+    "measlesImmunization": 60
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1990,
+    "measlesImmunization": 78
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1991,
+    "measlesImmunization": 85
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1992,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1993,
+    "measlesImmunization": 85
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1994,
+    "measlesImmunization": 77
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1995,
+    "measlesImmunization": 87
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1996,
+    "measlesImmunization": 80
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1997,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1998,
+    "measlesImmunization": 95
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1999,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2000,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2001,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2002,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2003,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2004,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2005,
+    "measlesImmunization": 98
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2006,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2007,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2008,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2009,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2010,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2011,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2012,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2013,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2014,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2015,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1987,
+    "measlesImmunization": 70
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1988,
+    "measlesImmunization": 85
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1989,
+    "measlesImmunization": 87
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1990,
+    "measlesImmunization": 89
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1991,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1992,
+    "measlesImmunization": 94
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1993,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1994,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1995,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1996,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1997,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1998,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1999,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2000,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2001,
+    "measlesImmunization": 95
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2002,
+    "measlesImmunization": 95
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2003,
+    "measlesImmunization": 95
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2004,
+    "measlesImmunization": 94
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2005,
+    "measlesImmunization": 94
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2006,
+    "measlesImmunization": 93
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2007,
+    "measlesImmunization": 94
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2008,
+    "measlesImmunization": 93
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2009,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2010,
+    "measlesImmunization": 90
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2011,
+    "measlesImmunization": 88
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2012,
+    "measlesImmunization": 98
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2013,
+    "measlesImmunization": 90
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2014,
+    "measlesImmunization": 90
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2015,
+    "measlesImmunization": 90
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1983,
+    "measlesImmunization": 78
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1984,
+    "measlesImmunization": 84
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1985,
+    "measlesImmunization": 88
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1986,
+    "measlesImmunization": 63
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1987,
+    "measlesImmunization": 77
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1988,
+    "measlesImmunization": 95
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1989,
+    "measlesImmunization": 95
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1990,
+    "measlesImmunization": 98
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1991,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1992,
+    "measlesImmunization": 87
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1993,
+    "measlesImmunization": 81
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1994,
+    "measlesImmunization": 75
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1995,
+    "measlesImmunization": 80
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1996,
+    "measlesImmunization": 84
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1997,
+    "measlesImmunization": 83
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1998,
+    "measlesImmunization": 83
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1999,
+    "measlesImmunization": 84
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2000,
+    "measlesImmunization": 84
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2001,
+    "measlesImmunization": 85
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2002,
+    "measlesImmunization": 85
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2003,
+    "measlesImmunization": 85
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2004,
+    "measlesImmunization": 86
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2005,
+    "measlesImmunization": 86
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2006,
+    "measlesImmunization": 93
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2007,
+    "measlesImmunization": 94
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2008,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2009,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2010,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2011,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2012,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2013,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2014,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2015,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1983,
+    "measlesImmunization": 15
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1984,
+    "measlesImmunization": 26
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1985,
+    "measlesImmunization": 35
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1986,
+    "measlesImmunization": 39
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1987,
+    "measlesImmunization": 45
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1988,
+    "measlesImmunization": 51
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1989,
+    "measlesImmunization": 58
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1990,
+    "measlesImmunization": 71
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1991,
+    "measlesImmunization": 74
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1992,
+    "measlesImmunization": 76
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1993,
+    "measlesImmunization": 78
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1994,
+    "measlesImmunization": 80
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1995,
+    "measlesImmunization": 83
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1996,
+    "measlesImmunization": 84
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1997,
+    "measlesImmunization": 83
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1998,
+    "measlesImmunization": 82
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1999,
+    "measlesImmunization": 83
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2000,
+    "measlesImmunization": 84
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2001,
+    "measlesImmunization": 85
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2002,
+    "measlesImmunization": 86
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2003,
+    "measlesImmunization": 87
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2004,
+    "measlesImmunization": 88
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2005,
+    "measlesImmunization": 87
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2006,
+    "measlesImmunization": 89
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2007,
+    "measlesImmunization": 90
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2008,
+    "measlesImmunization": 89
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2009,
+    "measlesImmunization": 89
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2010,
+    "measlesImmunization": 89
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2011,
+    "measlesImmunization": 89
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2012,
+    "measlesImmunization": 90
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2013,
+    "measlesImmunization": 89
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2014,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2015,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1980,
+    "measlesImmunization": 25
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1981,
+    "measlesImmunization": 50
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1982,
+    "measlesImmunization": 50
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1983,
+    "measlesImmunization": 47
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1984,
+    "measlesImmunization": 48
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1985,
+    "measlesImmunization": 50
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1986,
+    "measlesImmunization": 70
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1987,
+    "measlesImmunization": 75
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1988,
+    "measlesImmunization": 75
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1989,
+    "measlesImmunization": 75
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1990,
+    "measlesImmunization": 75
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1991,
+    "measlesImmunization": 75
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1992,
+    "measlesImmunization": 75
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1993,
+    "measlesImmunization": 89
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1994,
+    "measlesImmunization": 90
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1995,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1996,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1997,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1998,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1999,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2000,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2001,
+    "measlesImmunization": 94
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2002,
+    "measlesImmunization": 94
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2003,
+    "measlesImmunization": 95
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2004,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2005,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2006,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2007,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2008,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2009,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2010,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2011,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2012,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2013,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2014,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2015,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1980,
+    "measlesImmunization": 35
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1981,
+    "measlesImmunization": 33
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1982,
+    "measlesImmunization": 37
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1983,
+    "measlesImmunization": 23
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1984,
+    "measlesImmunization": 21
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1985,
+    "measlesImmunization": 64
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1986,
+    "measlesImmunization": 60
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1987,
+    "measlesImmunization": 54
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1988,
+    "measlesImmunization": 70
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1989,
+    "measlesImmunization": 85
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1990,
+    "measlesImmunization": 75
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1991,
+    "measlesImmunization": 89
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1992,
+    "measlesImmunization": 88
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1993,
+    "measlesImmunization": 79
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1994,
+    "measlesImmunization": 90
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1995,
+    "measlesImmunization": 90
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1996,
+    "measlesImmunization": 93
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1997,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1998,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1999,
+    "measlesImmunization": 94
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2000,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2001,
+    "measlesImmunization": 95
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2002,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2003,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2004,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2005,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2006,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2007,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2008,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2009,
+    "measlesImmunization": 96
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2010,
+    "measlesImmunization": 95
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2011,
+    "measlesImmunization": 98
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2012,
+    "measlesImmunization": 99
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2013,
+    "measlesImmunization": 89
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2014,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2015,
+    "measlesImmunization": 97
+  },
+
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1980,
+    "measlesImmunization": 53
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1981,
+    "measlesImmunization": 55
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1982,
+    "measlesImmunization": 58
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1983,
+    "measlesImmunization": 60
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1984,
+    "measlesImmunization": 63
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1985,
+    "measlesImmunization": 68
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1986,
+    "measlesImmunization": 71
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1987,
+    "measlesImmunization": 76
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1988,
+    "measlesImmunization": 80
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1989,
+    "measlesImmunization": 84
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1990,
+    "measlesImmunization": 87
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1991,
+    "measlesImmunization": 90
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1992,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1993,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1994,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1995,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1996,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1997,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1998,
+    "measlesImmunization": 87
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1999,
+    "measlesImmunization": 88
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2000,
+    "measlesImmunization": 88
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2001,
+    "measlesImmunization": 85
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2002,
+    "measlesImmunization": 85
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2003,
+    "measlesImmunization": 82
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2004,
+    "measlesImmunization": 81
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2005,
+    "measlesImmunization": 82
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2006,
+    "measlesImmunization": 85
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2007,
+    "measlesImmunization": 86
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2008,
+    "measlesImmunization": 86
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2009,
+    "measlesImmunization": 86
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2010,
+    "measlesImmunization": 89
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2011,
+    "measlesImmunization": 90
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2012,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2013,
+    "measlesImmunization": 93
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2014,
+    "measlesImmunization": 93
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2015,
+    "measlesImmunization": 95
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1980,
+    "measlesImmunization": 86
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1981,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1982,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1983,
+    "measlesImmunization": 98
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1984,
+    "measlesImmunization": 98
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1985,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1986,
+    "measlesImmunization": 97
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1987,
+    "measlesImmunization": 82
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1988,
+    "measlesImmunization": 98
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1989,
+    "measlesImmunization": 94
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1990,
+    "measlesImmunization": 90
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1991,
+    "measlesImmunization": 87
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1992,
+    "measlesImmunization": 83
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1993,
+    "measlesImmunization": 84
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1994,
+    "measlesImmunization": 89
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1995,
+    "measlesImmunization": 88
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1996,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1997,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1998,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1999,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2000,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2001,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2002,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2003,
+    "measlesImmunization": 93
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2004,
+    "measlesImmunization": 93
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2005,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2006,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2007,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2008,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2009,
+    "measlesImmunization": 90
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2010,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2011,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2012,
+    "measlesImmunization": 91
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2013,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2014,
+    "measlesImmunization": 92
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2015,
+    "measlesImmunization": 92
+  }
+]

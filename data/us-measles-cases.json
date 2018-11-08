@@ -1,0 +1,98 @@
+[
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2000,
+    "measlesCases": 86
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2001,
+    "measlesCases": 116
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2002,
+    "measlesCases": 44
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2003,
+    "measlesCases": 56
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2004,
+    "measlesCases": 37
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2005,
+    "measlesCases": 66
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2006,
+    "measlesCases": 55
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2007,
+    "measlesCases": 43
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2008,
+    "measlesCases": 140
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2009,
+    "measlesCases": 71
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2010,
+    "measlesCases": 63
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2011,
+    "measlesCases": 220
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2012,
+    "measlesCases": 55
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2013,
+    "measlesCases": 187
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2014,
+    "measlesCases": 667
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2015,
+    "measlesCases": 188
+  }
+]
